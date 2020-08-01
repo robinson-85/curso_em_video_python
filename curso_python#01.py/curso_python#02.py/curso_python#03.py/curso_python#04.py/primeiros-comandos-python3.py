@@ -53,3 +53,11 @@ print(nome, idade, peso)
 Quando quiser testar alguma coisa é necessário 
 ir no modo interativo. Agora se quiser programar 
 algo é necessário ir no modo script.
+
+print('Olá', 5)
+Olá 5
+nome = 'Robinson'
+idade = 35
+peso = 104
+print(nome, idade, peso)
+Robinson 35 104
