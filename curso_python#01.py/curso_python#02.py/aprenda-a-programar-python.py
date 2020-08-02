@@ -31,9 +31,10 @@ suporta orientação de objeto, programação imperativa e,
 em menor escala, programação funcional.
 
 É uma linguagem interpretada, têm seus códigos 
-fontes transformados em uma linguagem intermediária (específica de cada linguagem), que será interpretada
-pela máquina virtual da linguagem quando o programa 
-for executado.
+fontes transformados em uma linguagem 
+intermediária (específica de cada linguagem), 
+que será interpretada pela máquina virtual da 
+linguagem quando o programa for executado.
 
 Usa tipagem dinâmica e forte, isso, significa que o 
 próprio interpretador do Python infere o tipo dos dados 
@@ -46,20 +47,25 @@ Python para explicar a questão: Tipagem forte significa
 que o interpretador do Python avalia as expressões 
 (evaluate) e não faz coerções automáticas entre tipos 
 não compatíveis (conversões de valores), ou seja: 
-Quando recebemos uma exception chamada TypeError ou seja,
-ao fazer operações com tipos incompatíveis, o Python não converte automaticamente esses tipos pra você, ele vai dar erro! Isso é bom, pois assim você terá a certeza que o seu resultado é mais consistente.
+Quando recebemos uma exception chamada TypeError 
+ou seja, ao fazer operações com tipos incompatíveis,
+o Python não converte automaticamente esses tipos
+para você, ele vai dar erro! Isso é bom, pois 
+assim você terá a certeza que o seu resultado 
+é mais consistente.
 
-E é multiplataforma, funcionando igualmente bem em 
-plataformas Windows, GNULinux, UNIX e Mac/Apple, 
-assim como outras, indo desde supercomputadores 
-até telefones celulares. Pode ser usado para 
-desenvolver pequenas aplicações e protótipos 
-rápidos, mas escala bem para permitir o 
-desenvolvimento de programas robustos. 
-Vem com um conjunto de ferramentas para 
-Interface Gráfica do Usuário (GUI) poderoso 
-e fácil de usar, bibliotecas para programação 
-web, e muito mais.
+E é multiplataforma, funcionando igualmente 
+bem em plataformas Windows, GNULinux, UNIX 
+e Mac/Apple, assim como outras, indo desde 
+supercomputadores até telefones celulares. 
+Pode ser usado para desenvolver pequenas 
+aplicações e protótipos rápidos, mas escala 
+bem para permitir o desenvolvimento de 
+programas robustos. Vem com um conjunto de 
+ferramentas para Interface Gráfica do 
+Usuário (GUI) poderoso e fácil de usar, 
+bibliotecas para programação web, e muito 
+mais.
 
 E, o melhor de tudo é grátis. Python foi feita 
 tendo com base na linguagem ABC, parte da sintaxe 
@@ -88,33 +94,42 @@ programação funcional como lambda, map, filter
 e reduce.
 
 A última versão enquanto Guido estava na CWI foi
- o Python 1.2. Em 1995, trabalhando no CNRI em 
- Reston, Estados Unidos, de onde lançou diversas 
- atualizações. Na versão 1.4 a linguagem adicionou 
- parâmetros nomeados e suporte nativo a números 
- complexos, assim como uma forma de encapsulamento.
+o Python 1.2. Em 1995, trabalhando no CNRI em 
+Reston, Estados Unidos, de onde lançou diversas 
+atualizações. Na versão 1.4 a linguagem adicionou 
+parâmetros nomeados e suporte nativo a números 
+complexos, assim como uma forma de encapsulamento.
 
 Lançou a iniciativa Computer Programming for Everybody 
 (CP4E; literalmente, “Programação de Computadores para
  Todos”), que visava tornar a programação mais acessível, 
  um projeto financiado pela DARPA.
 
-Atualmente o CP4E encontra-se inativo. Em 2000, o time de desenvolvimento da linguagem se mudou para a BeOpen a fim
- de formar o time PythonLabs.
+Atualmente o CP4E encontra-se inativo. Em 2000, 
+o time de desenvolvimento da linguagem se 
+mudou para a BeOpen a fim de formar o time 
+PythonLabs.
 
 A CNRI pediu que a versão 1.6 fosse lançada, para marcar 
 o fim de desenvolvimento da linguagem naquele local.
 
-O único lançamento na BeOpen foi o Python 2.0, e após o lançamento o grupo de desenvolvedores da PythonLabs 
-agrupou-se na Digital Creations, implementou list comprehension, uma relevante funcionalidade de 
-linguagens funcionais como SETL e Haskell.
+O único lançamento na BeOpen foi o Python 2.0, 
+e após o lançamento o grupo de desenvolvedores
+da PythonLabs agrupou-se na Digital Creations, 
+implementou list comprehension, uma relevante 
+funcionalidade de linguagens funcionais como
+SETL e Haskell.
 
-A sintaxe da linguagem para essa construção é bastante 
-similar a de Haskell, exceto pela preferência do Haskell 
-por caracteres de pontuação e da preferência do python 
-por palavras reservadas alfabéticas. Também introduziu 
-um sistema coletor de lixo(Garbage Coletor) capaz de identificar e tratar ciclos de referências. Python 2.1 
-era parecido com as versões 1.6.1 e 2.0.
+A sintaxe da linguagem para essa construção é 
+bastante similar a de Haskell, exceto pela
+preferência do Haskell por caracteres de 
+pontuação e da preferência do python por 
+palavras reservadas alfabéticas. Também 
+introduziu um sistema coletor de lixo
+(Garbage Coletor) capaz de identificar 
+e tratar ciclos de referências. 
+Python 2.1 era parecido com as versões
+1.6.1 e 2.0.
 
 Licenciamento
 Sua licença foi renomeada para Python Software 
@@ -124,10 +139,11 @@ especificação desde o lançamento da versão alfa da
  uma organização sem fins lucrativos fundada em 2001, 
  um modelo tal qual da Apache Software Foundation.
 
-No lançamento incluiu a mudança na especificação para 
-suportar escopo aninhado, assim como outras linguagens 
-com escopo estático. Atualmente funcionalidade estava desativada por padrão, e somente foi requerida na 
-versão 2.2.
+No lançamento incluiu a mudança na especificação 
+para suportar escopo aninhado, assim como outras 
+linguagens com escopo estático. Atualmente 
+funcionalidade estava desativada por padrão, 
+e somente foi requerida na versão 2.2.
 
 Uma grande inovação da versão 2.2 foi a unificação 
 dos tipos Python (escritos em C) e classes (escritas 
