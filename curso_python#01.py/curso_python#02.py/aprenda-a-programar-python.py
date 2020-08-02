@@ -102,8 +102,8 @@ complexos, assim como uma forma de encapsulamento.
 
 Lançou a iniciativa Computer Programming for Everybody 
 (CP4E; literalmente, “Programação de Computadores para
- Todos”), que visava tornar a programação mais acessível, 
- um projeto financiado pela DARPA.
+Todos”), que visava tornar a programação mais acessível, 
+um projeto financiado pela DARPA.
 
 Atualmente o CP4E encontra-se inativo. Em 2000, 
 o time de desenvolvimento da linguagem se 
@@ -135,9 +135,9 @@ Licenciamento
 Sua licença foi renomeada para Python Software 
 Foundation License. Todo código, documentação e 
 especificação desde o lançamento da versão alfa da
- 2.1 é propriedade da Python Software Foundation (PSF), 
- uma organização sem fins lucrativos fundada em 2001, 
- um modelo tal qual da Apache Software Foundation.
+2.1 é propriedade da Python Software Foundation (PSF), 
+uma organização sem fins lucrativos fundada em 2001, 
+um modelo tal qual da Apache Software Foundation.
 
 No lançamento incluiu a mudança na especificação 
 para suportar escopo aninhado, assim como outras 
@@ -181,10 +181,10 @@ maioria das distribuições do Linux, AmigaOS 4,
 FreeBSD, NetBSD, OpenBSD e OS X. A linguagem se 
 tornou a padrão no curso de ciências da computação 
 do MIT em 2009. Além disso, muitas empresas de grande
- sucesso utilizam Python em seus projetos. Alguns 
- exemplos que usam MUITO Python: Google, Youtube, 
- Nasa, Disney, e no Brasil: Magazine Luiza, Locaweb, 
- globo.com.
+sucesso utilizam Python em seus projetos. Alguns 
+exemplos que usam MUITO Python: Google, Youtube, 
+Nasa, Disney, e no Brasil: Magazine Luiza, Locaweb, 
+globo.com.
 
 Esse texto foi extraído dos escriitos de Welton Vaz.
 https://www.eusoudev.com.br/python-como-surgiu/
