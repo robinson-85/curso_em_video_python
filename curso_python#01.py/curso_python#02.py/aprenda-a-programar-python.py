@@ -186,6 +186,6 @@ exemplos que usam MUITO Python: Google, Youtube,
 Nasa, Disney, e no Brasil: Magazine Luiza, Locaweb, 
 globo.com.
 
-Esse texto foi extraído dos escriitos de Welton Vaz.
+Esse texto foi extraído dos escritos de Welton Vaz.
 https://www.eusoudev.com.br/python-como-surgiu/
 
