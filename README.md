@@ -1,2 +1,2 @@
-# learning_python
-his course is specific for learning the Python programming language.
+
+This course is specific to learn the Python programming language through a YouTube course by Professor Gustavo Guanabara (Video Course for Python)
