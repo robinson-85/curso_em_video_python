@@ -1,5 +1,5 @@
 print('Olá, Robinson')
-saudacao= input('Tudo bem, Robinson?')
-resposta= input('Tudo ok, e vc?')
-resposta2= input('Que ótimo, então estamos todos bem?')
+saudacao = input('Tudo bem, Robinson?')
+resposta = input('Tudo ok, e vc?')
+resposta2 = input('Que ótimo, então estamos todos bem?')
 print(saudacao, resposta, resposta2)
